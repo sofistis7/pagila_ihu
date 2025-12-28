@@ -1,0 +1,9 @@
+# Google Cloud Credentials
+studied-brand-481913-u8-0f4005891f76.json
+
+# Mac system files
+.DS_Store
+
+# Python files
+__pycache__/
+*.pyc
