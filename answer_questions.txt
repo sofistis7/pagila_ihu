@@ -1,17 +1,18 @@
-rep_revenue_per_period
+a. rep_revenue_per_period
 
-1.  the % diff between May 22’ and June 22’ is -3.74%
+    1.  the % diff between May 22’ and June 22’ is -3.74%
 
-2. the weekday with the highest average revenue is Tuesday with average of total revenues = 19.54
+    2. the weekday with the highest average revenue is Tuesday with average of total revenues = 19.54
 
 
-rep_revenue_per_customer_and_period
-1. top 5 customers by revenue for June 2022
-   302	MICHAEL	SILVERMAN
-   390	SHAWN	HEATON
-   200	JEANNE	LAWSON
-   257	MARSHA	DOUGLAS
-   569	DAVE	GARDINER
+b. rep_revenue_per_customer_and_period
 
-2. the month with the most unique customers is May 2022
+   1. top 5 customers by revenue for June 2022
+      302	MICHAEL	SILVERMAN
+      390	SHAWN	HEATON
+      200	JEANNE	LAWSON
+      257	MARSHA	DOUGLAS
+      569	DAVE	GARDINER
+
+  2. the month with the most unique customers is May 2022
 
